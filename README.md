@@ -76,26 +76,16 @@ I'm a **QA Engineer / SDET** focused on building reliable and smooth user experi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajapatikapil41&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajapatikapil41&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Prajapatikapil41&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajapatikapil41&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajapatikapil41&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="50%" />
 </p>
 
----
-
-## 📈 Contribution Graph
+## 🐍 Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajapatikapil41&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Prajapatikapil41/Prajapatikapil41/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Prajapatikapil41/Prajapatikapil41/output/github-contribution-grid-snake-dark.svg" />
 </p>
