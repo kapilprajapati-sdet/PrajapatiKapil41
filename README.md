@@ -1,14 +1,18 @@
-<h1 align="center">Kapil Prajapati</h1>
+<h1 align="center">Hi 👋, I'm Kapil Prajapati</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=QA%20Engineer%20%7C%20SDET&fontSize=32&fontColor=38BDF8&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=180&section=header&text=KAPIL%20PRAJAPATI&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=QA%20Engineer%20%7C%20SDET%20%7C%20Automation%20Tester&descSize=16&descColor=E0E7FF" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=I+break+software+before+users+do;Automation+driven+quality;Building+trust+through+testing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Breaking+software+so+users+don't+have+to;Quality+is+a+habit;Testing+builds+trust" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%" />
+</p>
+
+<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
 
 ## ✨ About Me
 
