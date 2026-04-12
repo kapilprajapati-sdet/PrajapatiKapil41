@@ -1,12 +1,11 @@
-<div align="center">
+Hi 👋, I'm Kapil Prajapati
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KAPIL%20PRAJAPATI&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=QA%20Engineer%20%7C%20SDET%20%7C%20Automation%20Tester&descSize=16&descColor=94a3b8" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a23&height=180&section=header&text=KAPIL%20PRAJAPATI&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=QA%20Engineer%20%7C%20SDET%20%7C%20Automation%20Tester&descSize=16&descColor=94a3b8" width="100%" />
+<img align="right" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Breaking+software...+so+users+don't+have+to.;Quality+is+not+an+act%2C+it+is+a+habit.;Testing+is+not+about+finding+bugs%2C+it's+about+building+trust.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Breaking+software...+so+users+don't+have+to.;Quality+is+not+an+act%2C+it+is+a+habit.;Testing+is+not+about+finding+bugs%2C+it's+about+building+trust.)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-</div>
 
 ## About Me
 
@@ -21,7 +20,7 @@ I'm a **QA Engineer / SDET** who lives at the intersection of development and te
 - 🧠 Always thinking: *"What could go wrong here?"*
 - 🎯 Detail-obsessed, quality-driven, and endlessly curious
 
----
+<br>
 
 ## My Arsenal
 
@@ -40,7 +39,7 @@ I'm a **QA Engineer / SDET** who lives at the intersection of development and te
 ### 🔧 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
+<br>
 
 ## What I'm Up To
 
@@ -51,7 +50,7 @@ I'm a **QA Engineer / SDET** who lives at the intersection of development and te
 - 💬 **Ask me about:** QA strategies, Test Automation, API Testing
 - ⚡ **Fun fact:** I find peace in a well-organized Jira board
 
----
+<br>
 
 ## Testing Philosophy
 
@@ -61,40 +60,38 @@ I'm a **QA Engineer / SDET** who lives at the intersection of development and te
 | Question everything | Automate anything repeatable | Zero-defect mindset |
 | Details matter most | Document everything | Trust in every release |
 
----
+<br>
 
 ## Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kapil-prajapati-7ba4b51b7/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajapatikapil41)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapilprajapati0403@gmail.com)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prajapati_kapil41/)
-&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kapil-prajapati-7ba4b51b7/) &nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajapatikapil41) &nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapilprajapati0403@gmail.com) &nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prajapati_kapil41/) &nbsp;&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/kapil.prajapati.5070276)
 
 </div>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prajapatikapil41&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" width="48%" align="left" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajapatikapil41&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&side_labels=6DA55F&stroke=38BDF8&ring=38BDF8&fire=FF6B35&currStreakLabel=38BDF8" width="48%" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=Prajapatikapil41&theme=tokyonight&show_icons=true&hide_border=false&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" width="48%" align="left" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajapatikapil41&theme=tokyonight&hide_border=false&currStreakLabel=38BDF8&side_labels=c9d1d9&dates=555555&fire=FF6B35" width="48%" align="right" />
 
 <br clear="both"/>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajapatikapil41&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajapatikapil41&theme=tokyonight&layout=compact&hide_border=false&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" width="60%" />
 
 <br>
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prajapatikapil41&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Prajapatikapil41&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
 
 <br>
 
@@ -112,6 +109,6 @@ I'm a **QA Engineer / SDET** who lives at the intersection of development and te
 <br>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a23&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
 </div>
