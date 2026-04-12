@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a23&height=180&section=header&text=KAPIL%20PRAJAPATI&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=QA%20Engineer%20%7C%20SDET%20%7C%20Automation%20Tester&descSize=16&descColor=94a3b8" width="100%" />
@@ -116,4 +115,3 @@ I'm a **QA Engineer / SDET** who lives at the intersection of development and te
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a23&height=120&section=footer" width="100%" />
 
 </div>
-```
