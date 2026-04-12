@@ -45,26 +45,22 @@ I'm a **QA Engineer / SDET** who lives at the intersection of development and te
 
 ## What I'm Up To
 
-```
-🔄 Currently    → Automating tests with Playwright at GeoWGS84
-🌱 Learning     → Advanced CI/CD pipelines & Kubernetes
-🤝 Collaborating→ With devs to ship quality faster
-🎯 Goal         → Become a world-class SDET
-💬 Ask me about → QA strategies, Test Automation, API Testing
-⚡ Fun fact     → I find peace in a well-organized Jira board
-```
+- 🔄 **Currently:** Automating tests with Playwright at GeoWGS84
+- 🌱 **Learning:** Advanced CI/CD pipelines & Kubernetes
+- 🤝 **Collaborating:** With devs to ship quality faster
+- 🎯 **Goal:** Become a world-class SDET
+- 💬 **Ask me about:** QA strategies, Test Automation, API Testing
+- ⚡ **Fun fact:** I find peace in a well-organized Jira board
 
 ---
 
 ## Testing Philosophy
 
-```
-🧠 Mindset              🛠️ Approach                    🎯 Outcome
-─────────────────────────────────────────────────────────────────
-Think like a user        Test like a breaker             Ship like a pro
-Question everything      Automate anything repeatable    Zero-defect mindset
-Details matter most      Document everything             Trust in every release
-```
+| 🧠 Mindset | 🛠️ Approach | 🎯 Outcome |
+| :--- | :--- | :--- |
+| Think like a user | Test like a breaker | Ship like a pro |
+| Question everything | Automate anything repeatable | Zero-defect mindset |
+| Details matter most | Document everything | Trust in every release |
 
 ---
 
