@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kapilprajapatisdet">
+  <a href="https://www.linkedin.com/in/kapilprajapati-sdet">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kapilprajapati0403@gmail.com">
@@ -48,7 +48,7 @@ Mindset  : "If it can break, I want to
 - 🧑‍💻 **Dev background** (Java, React, Spring Boot) — I understand the code I test
 - 🤖 **AI-assisted QA workflows** using Claude AI for framework design & automation
 - 🤝 Collaborative in **Agile/Scrum** sprint cycles with daily dev collaboration
-- 📚 Always learning — ISTQB prep, JMeter, advanced Playwright patterns
+- 📚 Always learning — Advanced Playwright patterns
 
 <br clear="right"/>
 
@@ -338,7 +338,7 @@ Mindset  : "If it can break, I want to
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kapilprajapatisdet">
+  <a href="https://www.linkedin.com/in/kapilprajapati-sdet">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
