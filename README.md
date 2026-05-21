@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kapilprajapatisdet">
+  <a href="[https://www.linkedin.com/in/kapilprajapatisdet](https://www.linkedin.com/in/kapilprajapati-sdet/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kapilprajapati0403@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Prajapatikapil41">
+  <a href="https://github.com/kapilprajapati-sdet">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Prajapatikapil41&style=for-the-badge&color=38BDF8&label=Profile+Views" />
@@ -30,7 +30,7 @@
 ```yaml
 Name     : Kapil Prajapati
 Role     : QA Engineer / SDET
-Location : Indore, Madhya Pradesh 🇮🇳
+Location : Dewas, Madhya Pradesh 🇮🇳
 Current  : GeoWGS84 Corp — QA Engineer
 Focus    : Web & Geospatial App Testing
 
