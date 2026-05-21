@@ -223,6 +223,11 @@ Mindset  : "If it can break, I want to
         🗄️ SQL queries for backend data integrity verification<br/>
         📝 Defect documentation & automation improvement recommendations
       </p>
+      <p align="center">
+        <a href="https://github.com/kapilprajapati-sdet/FreelanceSphere">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
     <td width="50%">
       <h3 align="center">🚗 BlockDrive</h3>
@@ -236,6 +241,11 @@ Mindset  : "If it can break, I want to
         🧪 Functional, regression & API testing coverage<br/>
         🌐 Cross-browser UI validation (Chrome, Firefox, Edge)<br/>
         🔍 Dev knowledge leveraged for smarter test case design
+      </p>
+      <p align="center">
+        <a href="https://github.com/kapilprajapati-sdet/Block-Drive">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </p>
     </td>
   </tr>
@@ -257,15 +267,27 @@ Mindset  : "If it can break, I want to
 **Certifications:**
 
 <p>
-  <img src="https://img.shields.io/badge/CDAC%20Java%20Full%20Stack-FF6C37?style=flat-square&logoColor=white" />
+  <a href="https://verify.skilljar.com/c/5ovud8a3mb9c">
+    <img src="https://img.shields.io/badge/AI%20Capabilities%20and%20Limitations-191919?style=flat-square&logo=anthropic&logoColor=white" />
+  </a>
+  <a href="https://verify.skilljar.com/c/nst2xmxm7spe">
+    <img src="https://img.shields.io/badge/AI%20Fluency%20for%20Students-191919?style=flat-square&logo=anthropic&logoColor=white" />
+  </a>
+  <a href="https://verify.skilljar.com/c/3ef98n22fgkb">
+    <img src="https://img.shields.io/badge/Claude%20101-191919?style=flat-square&logo=anthropic&logoColor=white" />
+  </a>
+  <a href="https://verify.skilljar.com/c/3mvemwgca52c">
+    <img src="https://img.shields.io/badge/Claude%20Code%20in%20Action-191919?style=flat-square&logo=anthropic&logoColor=white" />
+  </a>
+  <a href="https://verify.skilljar.com/c/xzg4r4tj42ho">
+    <img src="https://img.shields.io/badge/Introduction%20to%20Claude%20Cowork-191919?style=flat-square&logo=anthropic&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/65de9e9d-2904-4025-a05c-0029e9618148?source=linked_in_profile">
+    <img src="https://img.shields.io/badge/IBM%20Design%20Thinking-054ADA?style=flat-square&logo=ibm&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/TCS%20iON%20Career%20Edge-2C3E80?style=flat-square&logo=tcs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic%20AI%20Fluency-191919?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic%20Claude%20101-191919?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic%20Claude%20Code-191919?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM%20Design%20Thinking-054ADA?style=flat-square&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/EDUCBA%20Web%20Dev-EE3B3B?style=flat-square&logoColor=white" />
 </p>
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
